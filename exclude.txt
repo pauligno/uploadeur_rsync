@@ -1,0 +1,16 @@
+./
+../
+22
+index*
+Articles_Echos/
+CVS/
+doubleclick/
+Logo_FDC/
+Photo_IMO/
+.settings/
+config.inc.php
+parametre*
+top10*
+totaux*
+accueil_villes*
+left/
